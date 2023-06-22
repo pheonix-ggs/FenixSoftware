@@ -1,11 +1,11 @@
 PheonixSoftware
-Description
-PheonixSoftware is a software platform exclusively designed for users of PheonixOS, a Windows-based operating system created by [Your Name]. This readme file provides important information about the intended usage of PheonixSoftware and highlights the consequences of any unauthorized or prohibited activities.
+  Description
+PheonixSoftware is a software platform exclusively designed for users of PheonixOS, a Windows-based operating system created by benjy. This readme file provides important information about the intended usage of PheonixSoftware and highlights the consequences of any unauthorized or prohibited activities.
 
-Usage Limitation
+  Usage Limitation
 PheonixSoftware is intended for use only by individuals who are running PheonixOS as their primary operating system. It is specifically tailored to enhance the user experience on PheonixOS and may not function optimally or as intended on other operating systems.
 
-Prohibited Activities
+  Prohibited Activities
 Any use of PheonixSoftware that goes against its intended purpose or violates the terms of use is strictly prohibited. Prohibited activities include, but are not limited to:
 
 Attempting to use PheonixSoftware on non-PheonixOS systems.
@@ -19,6 +19,6 @@ Disclaimer
 PheonixSoftware is provided "as is" without any warranty, express or implied. The creator of PheonixOS shall not be held responsible for any damages, liabilities, or losses arising from the use or misuse of PheonixSoftware.
 
 Contact Information
-For any questions or concerns regarding the usage or licensing of PheonixSoftware, please contact the creator of PheonixOS at [contact email address].
+For any questions or concerns regarding the usage or licensing of PheonixSoftware, please contact the creator of PheonixOS at @PheonixTweaker
 
 Thank you for your understanding and compliance with the terms outlined in this readme.
